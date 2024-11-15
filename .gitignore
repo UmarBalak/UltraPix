@@ -1,5 +1,6 @@
 # Data and outputs
-data/
+data/train/
+data/val/
 outputs/
 
 # Jupyter Notebook checkpoints
